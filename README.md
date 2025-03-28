@@ -8,4 +8,5 @@ to run the client:
 
 to connect as a human:
 `ws -c wss://<your endpoint>`
+
 `> HumanConnect`
